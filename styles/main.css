@@ -1,5 +1,5 @@
 
-h1 {
+header {
     background-color:white;
     color:black;
     text-align:left;
@@ -13,6 +13,7 @@ h1 {
     width:13%;
     float:left;
     padding:3%; 
+    font-family:Verdana;
 }
 #section {
     height:3%;
@@ -20,6 +21,7 @@ h1 {
    text-align:left;
    float:left;
     padding:3%; 
+
 }
 #footer {
     background-color:#999;
@@ -27,4 +29,5 @@ h1 {
     clear:both;
     text-align:left;
     padding:3%; 
+    font-family:Verdana;
 }
