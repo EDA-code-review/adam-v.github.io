@@ -1,5 +1,5 @@
 
-header {
+#header {
     background-color:white;
     color:black;
     text-align:left;
@@ -20,7 +20,8 @@ header {
     width:30%;
    text-align:left;
    float:left;
-    padding:3%; 
+    padding:3%;
+    font-family:Verdana; 
 
 }
 #footer {
