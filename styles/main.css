@@ -81,8 +81,8 @@ div.desc {
 
 
 #header {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: red;
     position: relative;
     -webkit-animation: myfirst 5s linear 1s infinite alternate; /* Chrome, Safari, Opera */
